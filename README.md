@@ -1,4 +1,4 @@
-# 6paster-go-client
+# 6paster-go-client (6p)
 
 A small command-line client and Go package for
 [HextetSystems/6paster-go](https://github.com/HextetSystems/6paster-go) and the
