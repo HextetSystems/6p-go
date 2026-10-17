@@ -1,4 +1,4 @@
-# 6paster-go-client (6p)
+# 6p-go
 
 A small command-line client and Go package for
 [HextetSystems/6paster-go](https://github.com/HextetSystems/6paster-go) and the
@@ -15,7 +15,7 @@ or standard input, uploads it, and prints the resulting URL.
 Go 1.26 or newer is required.
 
 ```sh
-go install github.com/HextetSystems/6paster-go-client/cmd/6p@latest
+go install github.com/HextetSystems/6p-go/cmd/6p@latest
 ```
 
 To build from a checkout:
@@ -95,7 +95,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/HextetSystems/6paster-go-client/paster"
+	"github.com/HextetSystems/6p-go/paster"
 )
 
 func main() {

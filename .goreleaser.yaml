@@ -1,6 +1,6 @@
 version: 2
 
-project_name: 6paster-go-client
+project_name: 6p-go
 
 builds:
   - id: 6p

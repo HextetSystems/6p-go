@@ -18,7 +18,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/HextetSystems/6paster-go-client/paster"
+	"github.com/HextetSystems/6p-go/paster"
 )
 
 const (
