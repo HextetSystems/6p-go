@@ -1,3 +1,3 @@
 module github.com/HextetSystems/6p-go
 
-go 1.26.0
+go 1.27.3

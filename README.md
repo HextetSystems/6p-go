@@ -12,7 +12,7 @@ or standard input, uploads it, and prints the resulting URL.
 
 ## Install
 
-Go 1.26 or newer is required.
+Go 1.27.3 or newer is required.
 
 ```sh
 go install github.com/HextetSystems/6p-go/cmd/6p@latest
