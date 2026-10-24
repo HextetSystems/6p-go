@@ -4,6 +4,8 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    reviewers:
+      - "HextetSystems/reviewers"
     groups:
       github-actions-dependencies:
         patterns:
@@ -13,6 +15,8 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    reviewers:
+      - "HextetSystems/reviewers"
     groups:
       go-modules-minor-and-patch:
         patterns:
